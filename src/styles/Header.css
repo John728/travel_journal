@@ -1,0 +1,19 @@
+.header__container {
+    background-color: rgba(245, 103, 103, 1);
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 10px rgb(170, 170, 170);
+    margin-bottom: 20px;
+}
+
+.header__container__text {
+    color: white;
+}
+
+.header__container__img {
+    width: 15px;
+    margin: 4px;
+}   
