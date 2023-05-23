@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/travel_journal/static/css/main.bf99f969.css",
+    "main.js": "/travel_journal/static/js/main.1719a32b.js",
+    "static/media/Pyramids_of_giza.avif": "/travel_journal/static/media/Pyramids_of_giza.e3323224301aa03a8e69.avif",
+    "static/media/Grand_canyon.webp": "/travel_journal/static/media/Grand_canyon.205cfc640e2c52cd7074.webp",
+    "static/media/Japan.jpg": "/travel_journal/static/media/Japan.8b95086e78ecf8be3de0.jpg",
+    "static/media/Taj_mahal.webp": "/travel_journal/static/media/Taj_mahal.de19084bba97cf45b2fa.webp",
+    "static/media/Eiffel_tower.jpg": "/travel_journal/static/media/Eiffel_tower.88f792d57b17f4398b66.jpg",
+    "static/media/Great_wall_of_china.jfif": "/travel_journal/static/media/Great_wall_of_china.66d561b49fed7d50c77e.jfif",
+    "static/media/globe.svg": "/travel_journal/static/media/globe.1222569e75b513476a694d2b481bbd94.svg",
+    "index.html": "/travel_journal/index.html",
+    "static/media/location_marker.svg": "/travel_journal/static/media/location_marker.0be1c6f9e168fbbc721fcb6559db23eb.svg",
+    "main.bf99f969.css.map": "/travel_journal/static/css/main.bf99f969.css.map",
+    "main.1719a32b.js.map": "/travel_journal/static/js/main.1719a32b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf99f969.css",
+    "static/js/main.1719a32b.js"
+  ]
+}
